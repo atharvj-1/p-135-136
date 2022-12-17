@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25;
+    width: 100%;
+    margin: 0px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
+
+canvas{
+    border: 3px solid cyan;
+    border-radius: 9px;
+    box-shadow: 4px 5px 6px reds;
+    margin-top: 100px;
+}
+
+label{
+    color: cyan;
+    background-color: black;
+    font-size: 20px;
+    
+}
